@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/dd447a91-cab0-4522-826c-baa7c8777b7a)
+![github-header-image](./scr-github-header-image.png)
 
 <div align="center">
 
