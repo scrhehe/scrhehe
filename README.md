@@ -6,7 +6,7 @@
   ![GitHub followers](https://img.shields.io/github/followers/scrhehe?logo=github&style=for-the-badge&color=0e75b6)
   ![GitHub User's stars](https://img.shields.io/github/stars/scrhehe?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&color=0e75b6)
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Can;Full+Stack+Developer;SMM+Panel+Expert;Always+learning+new+things;Problem+Solver+%26+Code+Enthusiast!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+scrhehe;Full+Stack+Developer;SMM+Panel+Expert;Always+learning+new+things;Problem+Solver+%26+Code+Enthusiast!" alt="Typing SVG" />
   
 </div>
 
@@ -168,8 +168,8 @@
 <div align="center">
   
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/scrhehe)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/canadam2023)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/by.can.i)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/scrheheadam2023)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/by.scrhehe.i)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@quickpanelnet)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RVCs3gP6q8)
   
