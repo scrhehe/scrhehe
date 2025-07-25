@@ -21,8 +21,108 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scrhehe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/scrhehe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/scrhehe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:scrhehe) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🛠️ My Favorite Tools and Technologies
+
+> Technologies I’ve worked with and have a strong interest in — especially in cybersecurity, backend, and infrastructure
+
+<table>  
+  <tr>  
+    <td align="center" width="96">  
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" /><br>Python  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" /><br>C++  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" /><br>C#  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /><br>JavaScript  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" /><br>ASP.NET  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" /><br>Django  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" /><br>Docker  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="Nginx" /><br>Nginx  
+    </td>  
+  </tr>  
+
+  <tr>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br>GitLab  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" /><br>REST API  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="Pytest" /><br>Pytest  
+    </td>  
+  </tr>  
+
+  <tr>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" /><br>Sentry  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="Celery" /><br>Celery  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="Docusaurus" /><br>Docusaurus  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /><br>Dart  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind  
+    </td>  
+    <td align="center" width="96">  
+      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="JQuery" /><br>JQuery  
+    </td>  
+  </tr>  
+</table>
+
+---
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=scrhehe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=scrhehe&theme=dark&hide_border=false)<br/>
